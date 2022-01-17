@@ -1,0 +1,12 @@
+E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.exe.config
+E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.exe
+E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.pdb
+E:\.net\udemy\UdemyWindowsService\bin\Debug\log4net.dll
+E:\.net\udemy\UdemyWindowsService\bin\Debug\log4net.xml
+E:\.net\udemy\UdemyWindowsService\obj\Debug\UdemyWindowsService.ProjectInstaller.resources
+E:\.net\udemy\UdemyWindowsService\obj\Debug\UdemyWindowsService.UdemyWindowsService.resources
+E:\.net\udemy\UdemyWindowsService\obj\Debug\UdemyWindowsService.csproj.GenerateResource.cache
+E:\.net\udemy\UdemyWindowsService\obj\Debug\UdemyWindowsService.csproj.CoreCompileInputs.cache
+E:\.net\udemy\UdemyWindowsService\obj\Debug\UdemyWindowsService.csproj.CopyComplete
+E:\.net\udemy\UdemyWindowsService\obj\Debug\UdemyWindowsService.exe
+E:\.net\udemy\UdemyWindowsService\obj\Debug\UdemyWindowsService.pdb

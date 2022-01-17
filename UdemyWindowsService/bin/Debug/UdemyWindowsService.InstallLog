@@ -1,0 +1,15 @@
+﻿Installing assembly 'E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.InstallLog
+   assemblypath = E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.exe
+   logtoconsole = 
+Installing service Udemy Demo Service...
+Service Udemy Demo Service has been successfully installed.
+Creating EventLog source Udemy Demo Service in log Application...
+Committing assembly 'E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.InstallLog
+   assemblypath = E:\.net\udemy\UdemyWindowsService\bin\Debug\UdemyWindowsService.exe
+   logtoconsole = 
