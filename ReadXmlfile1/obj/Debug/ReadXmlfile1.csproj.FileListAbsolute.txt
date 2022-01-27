@@ -1,0 +1,7 @@
+C:\Users\Yaksh Tyagi\source\repos\ReadXmlfile1\bin\Debug\ReadXmlfile1.exe.config
+C:\Users\Yaksh Tyagi\source\repos\ReadXmlfile1\bin\Debug\ReadXmlfile1.exe
+C:\Users\Yaksh Tyagi\source\repos\ReadXmlfile1\bin\Debug\ReadXmlfile1.pdb
+C:\Users\Yaksh Tyagi\source\repos\ReadXmlfile1\obj\Debug\ReadXmlfile1.csproj.AssemblyReference.cache
+C:\Users\Yaksh Tyagi\source\repos\ReadXmlfile1\obj\Debug\ReadXmlfile1.csproj.CoreCompileInputs.cache
+C:\Users\Yaksh Tyagi\source\repos\ReadXmlfile1\obj\Debug\ReadXmlfile1.exe
+C:\Users\Yaksh Tyagi\source\repos\ReadXmlfile1\obj\Debug\ReadXmlfile1.pdb
